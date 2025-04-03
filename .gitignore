@@ -1,0 +1,11 @@
+results.json
+
+__pycache__/
+.venv/
+venv/
+
+bin/
+logs/
+reports/
+
+setlist/
