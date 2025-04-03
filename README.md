@@ -22,7 +22,7 @@ DJ Setlist Analyzer — это профессиональный инструме
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/username/dj-setlist-analyzer.git
+git clone https://github.com/kiryuhen/dj-setlist-analyzer.git
 cd dj-setlist-analyzer
 ```
 
